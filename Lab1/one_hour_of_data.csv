@@ -1,0 +1,1 @@
+"date","EventProcessedUtcTime","PartitionId","EventEnqueuedUtcTime","metadata_deviceType","metadata_studentId","metadata_uid","telemetry_temperature","telemetry_pressure","telemetry_humidity","telemetry_windSpeed","telemetry_windDirection","IoTHub_ConnectionDeviceId"
